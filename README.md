@@ -14,7 +14,7 @@ The open-source material of TxsPhish
 |                                |                   | Fake token transfer | ERC20         | Transaction   | 100  |
 |                                |                   | Dust value transfer | ERC20         | Transaction   | 22   |
 |                                | Payable Function  | Airdrop function    | ETH           | Transaction   | 788  |
-|                                |                   | Wallet function     | ETH           | Transaction   | 806  |
+|                                |                   | Wallet function     | ETH           | Transaction   | 808  |
 | Benign                         | -                 | -                   | -             | -             | 9570 |
 
 
