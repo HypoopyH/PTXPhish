@@ -15,7 +15,7 @@ The open-source material of TxsPhish
 |                                |                   | Dust value transfer | ERC20         | Transaction   | 22   |
 |                                | Payable Function  | Airdrop function    | ETH           | Transaction   | 788  |
 |                                |                   | Wallet function     | ETH           | Transaction   | 808  |
-| Benign                         | -                 | -                   | -             | -             | 9570 |
+| Benign                         | -                 | -                   | -             | -             | 13557 |
 
 
 The open-source ground-truth dataset is in the **./dataset/TXSPHISH_groundtruth.csv**
