@@ -1,7 +1,7 @@
-# TxsPhish
-The open-source material of TxsPhish
+# PTXPhish
+The open-source material of PTXPhish
 
-## TxsPhish dataset
+## PTXPhish dataset
 | Category                       |                   |                     | Target Assets | Spread Method | Num  |
 |--------------------------------|-------------------|---------------------|---------------|---------------|------|
 | Exploiting legitimate contract | Ice phishing      | Approve             | ERC20         | website       | 1247 |
@@ -20,6 +20,6 @@ The open-source material of TxsPhish
 
 The open-source ground-truth dataset is in the **./dataset/TXSPHISH_groundtruth.csv**
 
-## TxsPhish detection bot
+## PTXPhish detection bot
 
 We public our detection system in [Forta scam detection bot](https://app.forta.network/bot/0x9ba66b24eb2113ca3217c5e02ac6671182247c354327b27f645abb7c8a3e4534?search=0x9ba66b24eb2113ca3217c5e02ac6671182247c354327b27f645abb7c8a3e4534), and it is free to subsribe.
