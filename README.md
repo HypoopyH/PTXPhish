@@ -18,7 +18,7 @@ The open-source material of PTXPhish
 | Benign                         | -                 | -                   | -             | -             | 13557 |
 
 
-The open-source ground-truth dataset is in the **./dataset/TXSPHISH_groundtruth.csv**
+The open-source ground-truth dataset is in the **./dataset/PTXPHISH.xlsx**
 
 ## PTXPhish detection bot
 
