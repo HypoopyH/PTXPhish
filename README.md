@@ -5,7 +5,7 @@ Ethereum" accepted to NDSS 2025.
 
 ## Dataset
 
-[Dataset](https://github.com/HypoopyH/PTXPhish/tree/main/dataset) contains the dataset we used in our experiments. Feel free if you have any questions.
+[Dataset](https://github.com/blocksecteam/PTXPhish/tree/main/dataset) contains the dataset we used in our experiments. Feel free if you have any questions.
 
 | Category                       |                   |                     | Target Assets | Spread Method | Num  |
 |--------------------------------|-------------------|---------------------|---------------|---------------|------|
