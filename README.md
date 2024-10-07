@@ -26,7 +26,7 @@ The open-source ground-truth dataset is in the **./dataset/PTXPHISH.xlsx**
 
 ## Detection Bot/Rules
 
-Our detection system is publiced in [Forta](https://app.forta.network/bot/0x9ba66b24eb2113ca3217c5e02ac6671182247c354327b27f645abb7c8a3e4534?search=0x9ba66b24eb2113ca3217c5e02ac6671182247c354327b27f645abb7c8a3e4534), and it is free to subsribe.
+Our detection system is published in [Forta](https://app.forta.network/bot/0x9ba66b24eb2113ca3217c5e02ac6671182247c354327b27f645abb7c8a3e4534?search=0x9ba66b24eb2113ca3217c5e02ac6671182247c354327b27f645abb7c8a3e4534), and it is free to subsribe.
 
 ### Description
 
