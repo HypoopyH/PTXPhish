@@ -41,11 +41,12 @@ This bot monitors:
 
 If you use the related dataset or the insights we observed in our paper. Please considering cite our paper.
 
-> @inproceedings{chen2025dissecting,
-> title={Dissecting Payload-based Transaction Phishing on Ethereum},
-> author={Chen, Zhuo and Hu, Yufeng and He, Bowen and Luo, Dong and Wu, Lei and Zhou, Yajin},
-> booktitle={Network and Distributed Systems Security (NDSS) Symposium},
-> year={2025}
-> }
-
+```
+@inproceedings{chen2025dissecting,
+title={Dissecting Payload-based Transaction Phishing on Ethereum},
+author={Chen, Zhuo and Hu, Yufeng and He, Bowen and Luo, Dong and Wu, Lei and Zhou, Yajin},
+booktitle={Network and Distributed Systems Security (NDSS) Symposium},
+year={2025}
+}
+```
 
